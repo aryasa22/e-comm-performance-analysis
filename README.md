@@ -2,12 +2,12 @@
 
 *Presentation slide* [here](https://www.canva.com/design/DAFX6QUXtAc/lPu4znsNn1ahdOqWd8TLDw/view?utm_content=DAFX6QUXtAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Penggunaan SQL (Structured Query Language) tidak hanya terbatas pada keperluan manajemen database. Namun, SQL juga bisa digunakan untuk keperluan analisis. Perintah SQL dapat digunakan untuk menarik insight-insight sederhana. SQL dapat dijadikan pilihan yang tepat apabila kita ingin menarik insight sederhana dalam waktu yang cepat.
+The use of SQL (Structured Query Language) is not limited to only for database management purpose. The SQL also can be used for analytical purpose. The SQL commands can be used to draw some simple insights. SQL may be considered as one of best choices to be used for gain simple insight quickly.
 
 ## **Overview**
-Pada project ini dibahas hasil analisis terhadap performa suatu perusahaan e commerce di Amerika Selatan. Aspek yang dianalisis ada tiga yaitu pertumbuhan pelanggan, kualitas produk, dan penggunaan tipe pembayaran. Semua metrik yang dianalisis terhadap ketiga aspek tersebut didapatkan dengan menggunakan bantuan bahasa SQL. Seluruh sumber daya seperti dataset, tabel hasil query, dan script SQL dapat diunduh pada repository ini.
+In this project explained an analysis about the performance of an e-commerce in South America. There ara three aspects analyzed namely customers growth, products quality, and payment type usage. All of the analysis metrics for the three aspects mentioned are drawn by using PostgreSQL. All of the resources such as SQL script, datasets, and the presentation file are available in this repository.
 
-**Notes:** Project ini tentu masih jauh dari kata sempurna. Apabila teman-teman menemukan sesuatu yang kiranya bisa ditingkatkan dari project ini, saya akan dengan senang hati menerima saran tersebut.
+**Notes:** I know that this project is still far from perfection. If you find something to improve this project, feel free to discuse. My pleasure to consider any suggestioins.
 
 Contacts:
 
